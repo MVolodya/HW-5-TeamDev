@@ -1,0 +1,17 @@
+body{
+    width: 1170px;
+}
+.row{
+    height: 500px;
+    width: 1170px;
+    display: inline-block;
+}
+.featured-guests{
+    background-color: white;
+}
+.latest-episodes {
+    background-color: black;
+}
+.latest-episodes h1{
+    text-align: center;
+}
