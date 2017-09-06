@@ -1,21 +1,3 @@
-/*body{
-    width: 1170px;
-}
-.row{
-    height: 500px;
-    width: 1170px;
-    display: inline-block;
-}
-.featured-guests{
-    background-color: white;
-}
-.latest-episodes {
-    background-color: black;
-}
-.latest-episodes h1{
-    text-align: center;
-}
-*/
 .container-fluid {
     padding-right: 0;
     padding-left: 0;
@@ -67,4 +49,39 @@
 
 [class*="col-"] {
     padding: 0 !important;
+}
+.headline-header {
+    text-align: center;
+    margin: 15px 0 25px;
+}
+.latest-header{
+    text-align: center;
+    margin: 15px 0 25px;
+}
+.latest-episodes-text {
+    padding-right: 15px;
+}
+.episodes-row-with-bg {
+    background-color: black;
+    color: white;
+    height: 600px;
+}
+.latest-episodes-img >img{
+    width: 238px;
+    height: 166px;
+}
+.btn-episodes {
+    border: 2px solid #08b6e6;
+    border-radius: 3px;
+    color: #08b6e6;
+    font-size: 20px;
+    font-weight: 500;
+    background-color: black;
+    padding: 14px;
+    margin-left: 490px;
+}
+.guestslogo {
+    float: left;
+    margin: 0 20px 20px 0;
+    max-width: 200px;
 }
