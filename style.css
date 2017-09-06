@@ -32,7 +32,7 @@
     margin: 0;
     color: #000;
 }
-.subscribe-row-with-back {
+.subscribe-row-with-bg {
     background: #08B6E6;
 }
 .subscribe-padding {
@@ -44,9 +44,23 @@
 .banners-left > h3, ul {
     color: #fff;
 }
-
-
-
+.card-box {
+    display: flex;
+    margin: 20px 50px 0 0;
+}
+.popular-header {
+    margin: 0px 0 50px 0;
+}
+.card-text {
+    padding: 0 0 0 30px;
+}
+.consume-row-with-bg {
+    background: #D0D0D0;
+    padding: 50px 0 50px 0;
+}
+.row-popular-episodes-pd {
+    padding: 50px 0 50px 0;
+}
 [class*="col-"] {
     padding: 0 !important;
 }
