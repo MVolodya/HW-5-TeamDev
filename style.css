@@ -1,4 +1,4 @@
-body{
+/*body{
     width: 1170px;
 }
 .row{
@@ -14,4 +14,30 @@ body{
 }
 .latest-episodes h1{
     text-align: center;
+}
+*/
+
+.banner-img {
+    position: relative;
+}
+.banner-text {
+    top: 170px;
+    left: 0;
+    position: absolute;
+    width: 100%;
+    text-align: center;
+}
+.partners-logos {
+    background: red;
+    padding: 20px 0 20px 0;
+    display: flex;
+}
+.partners-logos a {
+    padding: 10px;
+}
+
+
+
+[class*="col-"] {
+    padding: 0 !important;
 }
