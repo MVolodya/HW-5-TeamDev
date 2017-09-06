@@ -16,9 +16,16 @@
     text-align: center;
 }
 */
+.container-fluid {
+    padding-right: 0;
+    padding-left: 0;
+}
 
 .banner-img {
     position: relative;
+    width: 100%;
+    height: 507px;
+    background-image: url(http://pushbuttoninfluence.com/show/wp-content/uploads/2016/02/banner-3-1.jpg);
 }
 .banner-text {
     top: 170px;
@@ -27,13 +34,33 @@
     width: 100%;
     text-align: center;
 }
+.banner-text h1 {
+    color: #fff;
+}
 .partners-logos {
-    background: red;
     padding: 20px 0 20px 0;
     display: flex;
+    align-items: center;
 }
-.partners-logos a {
+.partners-logos > img {
     padding: 10px;
+}
+.partners-logos > p {
+    padding: 10px;
+    margin: 0;
+    color: #000;
+}
+.subscribe-row-with-back {
+    background: #08B6E6;
+}
+.subscribe-padding {
+    padding: 50px 0 50px 0;
+}
+.banners-right > h2 {
+    color: #fff;
+}
+.banners-left > h3, ul {
+    color: #fff;
 }
 
 
