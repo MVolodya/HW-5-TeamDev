@@ -116,22 +116,24 @@
     font-weight: bold;
 }
 .col-xl-1 {
-    font-size: 15px; 
+    font-size: 20px; 
     font-weight: bold; 
     padding-top: 0px;
+    margin-left: 40px;
 }
 
 .col-xl-2 {
-    font-size: 15px; 
+    font-size: 20px; 
     font-weight: bold; 
     padding-top: 0px;
+    margin-left: 200px;
 }
 
 .col-xl-5 {
-    font-size: 15px; 
+    font-size: 20px; 
     font-weight: bold; 
     padding-top: inherit;
-    margin-left: 200px
+    margin-left: 140px
 }
 
 .table {
@@ -141,7 +143,8 @@
 }
 
 .td {
-    width: 50%; 
+    width: 70%; 
     border-top: none; 
     padding: 0px; 
+
 }
