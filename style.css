@@ -128,9 +128,10 @@
 }
 
 .col-xl-5 {
-    font-size: 15pt; 
+    font-size: 10px; 
     font-weight: bold; 
-    padding-top: 0px;
+    padding-top: inherit;
+    margin-left: 200px
 }
 
 .table {
@@ -145,17 +146,3 @@
     valign="top"
 }
 
-.text_1 {
-    font-size: 15px; 
-    font-weight: bold;
-    padding-top: 0px;
-    width: 73px;
-    height: 73px;
-}
-
-.text_2 {
-    font-size: 15px;
-    font-weight: bold; 
-    padding-top: 15px;
-    
-}
