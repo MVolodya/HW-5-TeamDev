@@ -112,23 +112,23 @@
 }
 
 .col-xl-4 {
-    font-size: 15pt; 
+    font-size: 15px; 
     font-weight: bold;
 }
 .col-xl-1 {
-    font-size: 15pt; 
+    font-size: 15px; 
     font-weight: bold; 
     padding-top: 0px;
 }
 
 .col-xl-2 {
-    font-size: 15pt; 
+    font-size: 15px; 
     font-weight: bold; 
     padding-top: 0px;
 }
 
 .col-xl-5 {
-    font-size: 10px; 
+    font-size: 15px; 
     font-weight: bold; 
     padding-top: inherit;
     margin-left: 200px
