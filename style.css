@@ -185,14 +185,11 @@
   footer {
    	background-color: #191919;
   	text-align: center;
-  	font-size: 12px;
+  	font-size: 15px;
   	color: white;
   	border: none;
   	padding: 10px;
   	width: 1500px;
   }
 
-  .nearbyone > h3 > a {
-    color: blue(17, 204, 238);
-    cursor: pointer; 
-  }
+  
