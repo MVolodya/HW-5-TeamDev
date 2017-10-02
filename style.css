@@ -177,6 +177,7 @@
   }
 
   .nearbytwo > .btn {
+    padding: 20px;
   	border-color: white;
   	color: white;
   }
