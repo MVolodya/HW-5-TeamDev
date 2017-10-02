@@ -146,5 +146,51 @@
     width: 70%; 
     border-top: none; 
     padding: 0px; 
-
 }
+
+.nearby {
+     display: flex;
+     justify-content: center;
+     background-color: black;
+     color: white;
+     padding: 30px 50px;
+  }
+
+  .nearbyone {
+  	flex: 1;
+  	font-size: 15px;
+  	max-width: 1700px;
+  	padding: 40px;
+  	text-align: left;
+  }
+
+  
+  .nearbytwo {
+  	flex: 1;
+  	max-width: 1700px;
+  	padding: 40px;
+
+  }
+
+  .nearbyone > h3, .right_part > h3 {
+  	margin-bottom: 40px;
+  }
+
+  .nearbytwo > .btn {
+    margin: 30px;
+  	border-color: white;
+  	color: white;
+  }
+
+
+  footer {
+   	background-color: #191919;
+  	text-align: center;
+  	font-size: 15px;
+  	color: white;
+  	border: none;
+  	padding: 10px;
+  	width: 1500px;
+  }
+
+  
